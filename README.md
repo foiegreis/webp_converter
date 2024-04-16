@@ -11,10 +11,10 @@ Converts jpg and png image files to webp. Comes with a GUI written in CustomTkin
 
 ## Screenshots
 
-![Image Converter GUI](imgs/img1.png)
+![Webp Converter GUI](/imgs/img1.png)
 *Initial state of the application*
 
-![Image Conversion in progress](imgs/img2.png)
+![After Conversion](/imgs/img2.png)
 *State after the conversion*
 
 ## Prerequisites
